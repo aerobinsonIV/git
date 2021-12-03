@@ -1,0 +1,1530 @@
+
+
+<!DOCTYPE html>
+
+<html id="html">
+
+<head><meta charset="utf-8" /><title>
+	All North American Release PlayStation Games - Page 6
+</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400|Roboto" rel="stylesheet">
+		
+
+		<link href="/bundles/app-styles?v=7jk2ECM8wcLTNAcINCzmdoDbsAs4lkEQbgo7NNkWMdI1" rel="stylesheet"/>
+<link href="/favicon.png" rel="icon" type="image/png" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	
+
+	<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c9aaa2bfb6af900122ece55&product=inline-share-buttons' async='async'></script>
+<meta property="og:title" content="All North American Release PlayStation Games - Page 6" />
+<link rel="canonical" href="https://www.listchallenges.com/all-north-american-release-playstation-games/list/6" />
+<meta property="og:url" content="https://www.listchallenges.com/all-north-american-release-playstation-games/list/6" />
+<link rel="image_src" href="https://www.listchallenges.com/f/lists/7a9ab273-8661-42a9-bf7b-50597dbea726.jpg" />
+<meta property="og:image" content="https://www.listchallenges.com/f/lists/7a9ab273-8661-42a9-bf7b-50597dbea726.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:type" content="article" />
+<meta name="description" content="This is a list of games for the Sony PlayStation video game system, organized alphabetically by name, released for North America. There" />
+<meta property="og:description" content="This is a list of games for the Sony PlayStation video game system, organized alphabetically by name, released for North America. There" />
+<link rel="apple-touch-icon" href="/i/logo-big.png" />
+<meta property="fb:app_id" content="253841154742565" />
+<meta property="og:site_name" content="List Challenges" />
+</head>
+
+<body id="body">
+
+	
+	
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			
+			ga('create', 'UA-27080120-2', 'listchallenges.com');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		</script>
+	
+	
+	
+
+	<div class="backdrop" onclick="app.backdropClick();" style="visibility:hidden"></div>
+	<div class="toast"></div>
+	
+
+<header class="header shadow-4">
+	<div class="header-content">
+		<div class="header-button header-buttonMenu" onclick="header.menuButtonClick()">
+			<span class="visible-IE glyphicon glyphicon-menu-hamburger"></span>
+			<span class="hidden-IE">
+				<i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-list"></use></svg></i>
+			</span>
+		</div>
+		<div class="header-titleWrapper">
+			<a class="header-button header-title" href="/">
+				<img src="/i/logo-title.png" alt="List Challenges" />
+			</a>
+		</div>
+		<div class="flex-grow1 hidden-xs hidden-sm"></div>
+		<a class="header-button header-buttonCategory"
+			href="/travel"
+			data-category="travel">
+			<span class="button-text">Travel</span>
+			<span class="caret"></span>
+		</a>
+		<a class="header-button header-buttonCategory"
+			href="/movies"
+			data-category="movies">
+			<span class="button-text">Movies</span>
+			<span class="caret"></span>
+		</a>
+		<a class="header-button header-buttonCategory"
+			href="/books"
+			data-category="books">
+			<span class="button-text">Books</span>
+			<span class="caret"></span>
+		</a>
+		<a class="header-button header-buttonCategory"
+			href="/food"
+			data-category="food">
+			<span class="button-text">Food</span>
+			<span class="caret"></span>
+		</a>
+		<a data-category="other" class="header-button header-buttonCategory"
+			href="/other">
+			<span class="button-text">Other</span>
+			<span class="caret"></span>
+		</a>
+		<div class="flex-grow1"></div>
+			
+		
+		<form id="formSearch" action="/lists/search" method="get" class="header-search">
+			<input autocomplete="off" type="search" maxlength="100" placeholder="search lists" name="s" />
+			<i class="svgIcon header-clearSearch"><svg><use xlink:href="/i/icons.svg#icon-x-button"></use></svg></i>
+			<i class="svgIcon header-openSearch"><svg><use xlink:href="/i/icons.svg#icon-search"></use></svg></i>
+		</form>
+
+		<div class="flex-grow1 hidden-xs"></div>
+	
+		<a class="header-button" href="/sign-in">
+				Sign In
+		</a>
+	
+	</div>
+
+	<div class="header-listsDropDown flexRow">
+		<div>
+			<div class="header-buttonSort selected"
+				onclick="header.redirectToCurrentHeaderSelection();"
+				data-sort="trending">
+				<span class="glyphicon glyphicon-arrow-up "></span> Trending
+			</div>
+			<div class="header-buttonSort"
+				 onclick="header.redirectToCurrentHeaderSelection();"
+				 data-sort="new">
+				<span class="glyphicon glyphicon-time "></span> New
+			</div>
+			<div class="header-buttonSort"
+				onclick="header.redirectToCurrentHeaderSelection();"
+				data-sort="popular">
+				<span class="glyphicon glyphicon-user "></span> Popular
+			</div>
+		</div>
+		<div class="header-listsByCategory header-lists flex-grow1"></div>
+	</div>
+
+	<div class="header-lists header-searchResults">
+		<div class="message">type to search</div>
+	</div>
+
+</header>
+
+<div class="menu shadow-8">
+	
+	
+		<a class="menu-link menu-linkFeature menu-linkSignIn" href="/sign-in">
+			<img src="/f/users/default.png" />
+			<div>Sign In</div>
+		</a>
+	
+	<a class="menu-link" href="/create-list"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-add"></use></svg></i> Make a List</a>
+	<a class="menu-link" href="/lists/all/trending"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-todo-list"></use></svg></i> Browse Lists</a>
+	<a class="menu-link" href="/lists/search"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-search"></use></svg></i> Search Lists</a>
+	<a class="menu-link" href="/leaders"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-trophy"></use></svg></i> Leaders</a>
+	<a class="menu-link" href="/help"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-help"></use></svg></i> Help / Contact</a>
+	
+	
+	
+	<a class="menu-link" href="/subscribe"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-new"></use></svg></i> Newsletter</a>
+	
+</div>
+
+	<form method="post" action="./6" id="form" novalidate="" onsubmit="return false;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="TBx/8mUlv9shqRtwgR0GQYVr3NWovaQCqd3Duoden9zRzDKEV1Vtp6OXBPHL+C1c5yXZr1bZe4/aeEtB84ZanX4eWhDI2fCAns38s7SII1A=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B876C835" />
+
+		
+
+        <div id="panelContainer_Master" class="container">
+	
+
+			
+
+			
+	
+
+	<div id="MainContent_divListMaster" class="listMaster listMaster-hideInfo">
+		
+		
+		<div class="listMaster-listImage" style="background-image:url('/f/lists/7a9ab273-8661-42a9-bf7b-50597dbea726.jpg')"></div>
+
+
+		<div class="checklist-scorePlaceholder"></div>
+
+
+		
+
+
+		<div class="listMaster-listImagePlaceholder"></div>
+
+
+		<div class="listMaster-belowImage">
+
+
+			
+
+
+
+	
+			<div class="content listMaster-top">
+
+				<h1 class="listMaster-topName">
+					All North American Release PlayStation Games
+					 - Page 6
+				</h1>
+
+				<div class="listMaster-showInfo">
+					<button type="button" class="btn btn-default btn-xs">show list info</button>
+				</div>
+
+				<div id="MainContent_divDescription" class="listMaster-topDescription">
+					This is a list of games for the Sony PlayStation video game system, organized alphabetically by name, released for North America. There are often different names for the same game in different regions.<div class="double-break"></div>There are currently 1300 games on this list. The final licensed PlayStation game released in North America was FIFA Football 2005 in 2004.
+				</div>
+
+				<div class="listMaster-topInfo flexResponsive">
+					<div class="flexResponsive-lg">
+						<div>
+							<span class="glyphicon glyphicon-user"></span>
+							9,153 users
+							&middot;
+							135,771 views
+						</div>
+						<div class="flexRow">
+							<div>
+								<span class="glyphicon glyphicon-plus-sign"></span>&nbsp;
+							</div>
+							<div>
+								from <a href="https://en.wikipedia.org/wiki/List_of_PlayStation_games" class="link" target="_blank" rel="noopener">en.wikipedia.org</a> &middot; <span class="no-wrap">made by <a href="/profile/5699" class="link" rel="nofollow">Dustin Prewitt</a></span>
+							</div>
+						</div>
+					</div>
+					<div class="flexResponsive-lg">
+						<div>
+							<span class="glyphicon glyphicon-stats "></span> avg. score: 31 of 1300 (2%)
+						</div>
+						<div>
+							<span class="glyphicon glyphicon-star "></span> required scores: 1, 2, 3, 13, 75&nbsp;
+							<a href="/help#StarRequirements" class="link-999"><span class="glyphicon glyphicon-question-sign"></span></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="listMaster-shareList">
+					<div class="sharethis-inline-share-buttons" data-url="https://www.listchallenges.com/all-north-american-release-playstation-games"></div>
+				</div>
+
+			</div>
+
+				
+			<div id="MainContent_navsListPages" class="tabs listMaster-tabs">
+				<a href="/all-north-american-release-playstation-games" class=" active"  rel="nofollow">list</a>
+				<a href="/all-north-american-release-playstation-games/stats"   rel="nofollow">stats</a>
+				<a href="/all-north-american-release-playstation-games/leaders"   rel="nofollow">leaders</a>
+				<a href="/all-north-american-release-playstation-games/vote"   rel="nofollow"><span class="hidden-xs">vote</span><span class="visible-xs">Vote</span></a>
+				<a href="/print-list/67694"   target="_blank" rel="nofollow">print</a>
+				<a href="/all-north-american-release-playstation-games/comments"   rel="nofollow">comments</a>
+			</div>
+
+			<div id="listMasterContentWrapper" class="clearfix">
+				
+
+	<div class="checklist-starAnimated">
+		<span class="glyphicon glyphicon-star "></span> 
+	</div>
+
+	<div class="checklist">
+
+		<div class="checklist-content content clearfix">
+				
+			<div class="checklist-search">
+				<input class="checklist-input" autocomplete="off" type="search" maxlength="100" placeholder="search list items" />
+				<i class="svgIcon checklist-clearSearch"><svg><use xlink:href="/i/icons.svg#icon-x-button"></use></svg></i>
+				<i class="svgIcon checklist-openSearch"><svg><use xlink:href="/i/icons.svg#icon-search"></use></svg></i>
+				<div class="checklist-searchResults shadow-3"><div class="message">type to search</div></div>
+			</div>
+
+			<h3 class="checklist-question">
+				How many have you Played?
+			</h3>
+
+			<div class="checklist-paging clearfix">
+
+				<div class="checklist-pageTop">
+					Page 6 of 33
+				</div>
+
+				<div id="MainContent_MainContent_pager" class="pager pager-narrowMargins"><a href="/all-north-american-release-playstation-games" >1</a><a href="/all-north-american-release-playstation-games/list/2" >2</a><a href="/all-north-american-release-playstation-games/list/3" >3</a><a href="/all-north-american-release-playstation-games/list/4" >4</a><a href="/all-north-american-release-playstation-games/list/5" >5</a><a href="/all-north-american-release-playstation-games/list/6" class="active">6</a><a href="/all-north-american-release-playstation-games/list/7" >7</a><a href="/all-north-american-release-playstation-games/list/8" >8</a><a href="/all-north-american-release-playstation-games/list/9" >9</a><a href="/all-north-american-release-playstation-games/list/10" >10</a><a href="/all-north-american-release-playstation-games/list/11" >11</a><a href="/all-north-american-release-playstation-games/list/12" >12</a><a href="/all-north-american-release-playstation-games/list/13" >13</a><a href="/all-north-american-release-playstation-games/list/14" >14</a><a href="/all-north-american-release-playstation-games/list/15" >15</a><a href="/all-north-american-release-playstation-games/list/16" >16</a><a href="/all-north-american-release-playstation-games/list/17" >17</a><a href="/all-north-american-release-playstation-games/list/18" >18</a><a href="/all-north-american-release-playstation-games/list/19" >19</a><a href="/all-north-american-release-playstation-games/list/20" >20</a><a href="/all-north-american-release-playstation-games/list/21" >21</a><a href="/all-north-american-release-playstation-games/list/22" >22</a><a href="/all-north-american-release-playstation-games/list/23" >23</a><a href="/all-north-american-release-playstation-games/list/24" >24</a><a href="/all-north-american-release-playstation-games/list/25" >25</a><a href="/all-north-american-release-playstation-games/list/26" >26</a><a href="/all-north-american-release-playstation-games/list/27" >27</a><a href="/all-north-american-release-playstation-games/list/28" >28</a><a href="/all-north-american-release-playstation-games/list/29" >29</a><a href="/all-north-american-release-playstation-games/list/30" >30</a><a href="/all-north-american-release-playstation-games/list/31" >31</a><a href="/all-north-american-release-playstation-games/list/32" >32</a><a href="/all-north-american-release-playstation-games/list/33" >33</a></div>
+
+			</div>
+
+
+
+			<div class="checklist-itemsSection">
+
+				<div class="checklist-itemsSectionLeft small-square">
+			
+					<div id="repeaterListItems" class="checklist-listItems clearfix" >
+							<div class="list-item view-small-image "
+								data-item-id="2575215">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">201</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/8da964b7-7459-44d2-9172-36118b4ffbc7.jpg" alt="Championship Surfer" />
+									</div>
+									<div class="item-name">
+										Championship Surfer
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2022126">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">202</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/48f53284-0ee1-4a18-8e9c-15de3fe133cc.jpg" alt="Chase the Express" />
+									</div>
+									<div class="item-name">
+										Chase the Express
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575216">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">203</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/3e6effdb-ed50-4a70-9984-2a7fc74257a5.jpg" alt="Chess" />
+									</div>
+									<div class="item-name">
+										Chess
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575217">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">204</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/6b32ba49-a339-4a28-8609-e1a7c6ea0d97.jpg" alt="Chessmaster II" />
+									</div>
+									<div class="item-name">
+										Chessmaster II
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							<span class="ad-wrapper"><div class="ad-identifier">ADVERTISEMENT</div><ins class="adsbygoogle "
+	style="display:block"
+	data-ad-client="ca-pub-9310224305865624"
+	data-ad-slot="4324557280"
+	data-ad-format="horizontal"
+	data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></span>
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575218">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">205</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/aec4a5f5-1394-4ba0-b169-5c9e218dbd48.jpg" alt="Chessmaster 3D" />
+									</div>
+									<div class="item-name">
+										Chessmaster 3D
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575219">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">206</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/d3066d31-36cc-47ac-9c18-d29a495e3efb.jpg" alt="Chicken Run" />
+									</div>
+									<div class="item-name">
+										Chicken Run
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2022137">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">207</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/316c3c08-c8c0-4bb9-8157-23e62166b1e8.jpg" alt="Chocobo Racing" />
+									</div>
+									<div class="item-name">
+										Chocobo Racing
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2490924">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">208</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/60ec9b1f-2681-4d40-a386-e35c735be193.jpg" alt="Chocobo&amp;#39;s Mysterious Dungeon 2" />
+									</div>
+									<div class="item-name">
+										Chocobo&#39;s Mysterious Dungeon 2
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575222">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">209</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/16ab978c-a146-4188-aac5-9d773c7d9379.jpg" alt="Chronicles of the Sword" />
+									</div>
+									<div class="item-name">
+										Chronicles of the Sword
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="205186">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">210</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/bafa36c0-b5f0-4bf0-a64a-917cdf3a81c3.jpg" alt="Chrono Cross" />
+									</div>
+									<div class="item-name">
+										Chrono Cross
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575224">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">211</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/3f71e571-a3e1-4ab5-a49c-a3e190efcd67.jpg" alt="The City of Lost Children" />
+									</div>
+									<div class="item-name">
+										The City of Lost Children
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="1398967">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">212</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img onerror="ImageLoadError(this)" src="/f/items/23e6b043-7adf-47f2-92e3-d191360fce58.jpg" alt="Civilization II" />
+									</div>
+									<div class="item-name">
+										Civilization II
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							<span class="ad-wrapper"><div class="ad-identifier">ADVERTISEMENT</div><ins class="adsbygoogle "
+	style="display:block"
+	data-ad-client="ca-pub-9310224305865624"
+	data-ad-slot="5801290483"
+	data-ad-format="horizontal"
+	data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></span>
+						
+							<div class="list-item view-small-image  listItem-firstLazyLoad"
+								data-item-id="2575225">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">213</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/ee82b924-1ba1-4822-a055-f725f6c1cef3.jpg" src="/i/loading.png" alt="Cleopatra&amp;#39;s Fortune" />
+									</div>
+									<div class="item-name">
+										Cleopatra&#39;s Fortune
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575223">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">214</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/23239593-d32e-4d9d-abb2-4a1386774d9c.jpg" src="/i/loading.png" alt="Circuit Breakers" />
+									</div>
+									<div class="item-name">
+										Circuit Breakers
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575226">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">215</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/a7d051fb-ede3-4ae6-b7fa-39d391a3289f.jpg" src="/i/loading.png" alt="Clock Tower" />
+									</div>
+									<div class="item-name">
+										Clock Tower
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575227">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">216</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/d900e838-8b63-4ec6-af3a-07a203754a8d.jpg" src="/i/loading.png" alt="Clock Tower: The First Fear" />
+									</div>
+									<div class="item-name">
+										Clock Tower: The First Fear
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2001400">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">217</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/68e9bf43-cbe9-406e-86a1-941bd3ab0e14.jpg" src="/i/loading.png" alt="Clock Tower II: The Struggle Within" />
+									</div>
+									<div class="item-name">
+										Clock Tower II: The Struggle Within
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575228">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">218</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/3dad4e02-5dec-41c1-ab7e-ba070818780f.jpg" src="/i/loading.png" alt="Codename: Tenka" />
+									</div>
+									<div class="item-name">
+										Codename: Tenka
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2021767">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">219</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/9d6af5dc-b0b1-4f36-b54e-9a237b933a0a.jpg" src="/i/loading.png" alt="Colin Mcrae Rally 2.0" />
+									</div>
+									<div class="item-name">
+										Colin Mcrae Rally 2.0
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="709586">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">220</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/82ad330c-f420-4954-af69-79471027e3e4.jpg" src="/i/loading.png" alt="Colin Mcrae Rally" />
+									</div>
+									<div class="item-name">
+										Colin Mcrae Rally
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							<span class="ad-wrapper"><div class="ad-identifier">ADVERTISEMENT</div><ins class="adsbygoogle "
+	style="display:block"
+	data-ad-client="ca-pub-9310224305865624"
+	data-ad-slot="7278023680"
+	data-ad-format="horizontal"
+	data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></span>
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575229">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">221</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/edc3c9a6-5737-4483-a7be-eebb2fb11515.jpg" src="/i/loading.png" alt="College Slam" />
+									</div>
+									<div class="item-name">
+										College Slam
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2022188">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">222</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/ee7fb541-e800-4f27-88cc-7cd7163a89de.jpg" src="/i/loading.png" alt="Colony Wars" />
+									</div>
+									<div class="item-name">
+										Colony Wars
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="1991172">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">223</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/3375fc24-f6a7-4cdd-a774-e8b0e7534b34.jpg" src="/i/loading.png" alt="Colony Wars Vengeance" />
+									</div>
+									<div class="item-name">
+										Colony Wars Vengeance
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575230">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">224</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/3da9b521-b789-4025-b018-c7b8dd587f6e.jpg" src="/i/loading.png" alt="Colony Wars: Red Sun" />
+									</div>
+									<div class="item-name">
+										Colony Wars: Red Sun
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="1219234">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">225</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/b3865d67-ca6a-4de8-8025-dd67793c0621.jpg" src="/i/loading.png" alt="Command &amp;amp; Conquer" />
+									</div>
+									<div class="item-name">
+										Command &amp; Conquer
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="585215">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">226</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/ec9e8c6b-3d9b-4677-9f5f-d4c192f53cf4.jpg" src="/i/loading.png" alt="Command &amp;amp; Conquer: Red Alert" />
+									</div>
+									<div class="item-name">
+										Command &amp; Conquer: Red Alert
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575231">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">227</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/67a67b65-5735-4ed1-8ed8-8c49bbf25168.jpg" src="/i/loading.png" alt="Command &amp;amp; Conquer Red Alert: Retaliation" />
+									</div>
+									<div class="item-name">
+										Command &amp; Conquer Red Alert: Retaliation
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575232">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">228</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/0b41c641-f460-434c-af81-9cac439c83f9.jpg" src="/i/loading.png" alt="Contender" />
+									</div>
+									<div class="item-name">
+										Contender
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							<span class="ad-wrapper"><div class="ad-identifier">ADVERTISEMENT</div><ins class="adsbygoogle "
+	style="display:block"
+	data-ad-client="ca-pub-9310224305865624"
+	data-ad-slot="7802349385"
+	data-ad-format="horizontal"
+	data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></span>
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575233">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">229</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/a285a09f-0a8a-4719-84bb-baea1152ed0a.jpg" src="/i/loading.png" alt="Contender 2" />
+									</div>
+									<div class="item-name">
+										Contender 2
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575190">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">230</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/7f1e90d6-25ed-4ff4-8b45-6fca53851af7.jpg" src="/i/loading.png" alt="The Contra Adventure" />
+									</div>
+									<div class="item-name">
+										The Contra Adventure
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575234">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">231</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/ed2592ce-8cfa-49c8-afcf-4da258630142.jpg" src="/i/loading.png" alt="Contra: Legacy of War" />
+									</div>
+									<div class="item-name">
+										Contra: Legacy of War
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="1471996">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">232</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/04ef5a0d-572c-47b5-b7d0-54af1480d22d.jpg" src="/i/loading.png" alt="Cool Boarders" />
+									</div>
+									<div class="item-name">
+										Cool Boarders
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575235">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">233</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/a2495f31-5ed1-4ca4-b180-aca97ec8ac74.jpg" src="/i/loading.png" alt="Cool Boarders 2" />
+									</div>
+									<div class="item-name">
+										Cool Boarders 2
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575236">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">234</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/6ba4ad85-0dcd-4cdf-94a7-8ed03c968c10.jpg" src="/i/loading.png" alt="Cool Boarders 3" />
+									</div>
+									<div class="item-name">
+										Cool Boarders 3
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575237">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">235</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/e3c5cab1-6d23-468d-a3f5-870880d43eae.jpg" src="/i/loading.png" alt="Cool Boarders 4" />
+									</div>
+									<div class="item-name">
+										Cool Boarders 4
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575238">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">236</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/57ec6da3-f783-4334-93ae-06fe9be9ada6.jpg" src="/i/loading.png" alt="Cosmic Cookoff: Language Arts" />
+									</div>
+									<div class="item-name">
+										Cosmic Cookoff: Language Arts
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575239">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">237</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/4b8b5a7b-e261-475d-9c8d-dfd370bac667.jpg" src="/i/loading.png" alt="Cosmic Cookoff: Mathematics" />
+									</div>
+									<div class="item-name">
+										Cosmic Cookoff: Mathematics
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575240">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">238</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/948deaa4-8623-4555-b8c9-53746f2a76f8.jpg" src="/i/loading.png" alt="Countdown Vampires" />
+									</div>
+									<div class="item-name">
+										Countdown Vampires
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575241">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">239</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/1cc4ff06-f485-4b77-8faf-b7143a951fba.jpg" src="/i/loading.png" alt="Courier Crisis" />
+									</div>
+									<div class="item-name">
+										Courier Crisis
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						
+							<div class="list-item view-small-image "
+								data-item-id="2575242">
+								<div class="item-click-area">
+									<div class="item-top">
+										<div class="item-rank">240</div>
+										<span onclick="app.openItemInfo(this,event);" class="item-button item-button-info glyphicon glyphicon-info-sign"></span>
+										<span onclick="app.toggleItemToDo(this,event);" class="item-button item-button-todo glyphicon glyphicon-pushpin"></span>
+										<span onclick="app.toggleFavoriteItem(this,event);" class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+									</div>
+									<div class="item-image-wrapper">
+										<img class="lazy-load" onerror="ImageLoadError(this)" data-src="/f/items/4c170e4a-4553-490a-a350-75e60bc6cf08.jpg" src="/i/loading.png" alt="Covert Ops: Nuclear Dawn" />
+									</div>
+									<div class="item-name">
+										Covert Ops: Nuclear Dawn
+									</div>
+									<div class="item-checkbox"></div>
+									
+								</div>
+							</div>
+							
+						</div>
+
+				
+					<div class="pageButtons  pageButtons-showNext pageButtons-showPrevious">
+						<div class="pageButtons-page">
+							Page 6 of 33
+						</div>
+						<button type="button" class="btn btn-default btn-lg pageButtons-previous"><span class="glyphicon glyphicon-arrow-left"></span> Previous</button>
+						<button type="button" class="btn btn-primary btn-lg pageButtons-next">Next Page <span class="glyphicon glyphicon-arrow-right"></span></button>
+					</div>
+
+					
+
+				</div>
+
+				
+				<div class="checklist-itemsSectionRight">
+					<span class="ad-wrapper"><ins class="adsbygoogle ad-skyscraper visible-md visible-lg"
+	style="display:block"
+	data-ad-client="ca-pub-9310224305865624"
+	data-ad-slot="9245481280"
+	data-ad-format="auto"
+	data-full-width-responsive="false"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></span>
+					
+				</div>
+				
+
+
+			</div>
+
+			<div class="cb" id="divEndListItems"></div>
+		
+		</div>
+
+		
+
+		
+
+		<div class="checklistScore">
+			<div class="checklistScore-content shadow-4">
+				<div class="checklistScore-top">
+					<span class="checklistScore-score"></span>
+					<button type="button" class="btn btn-xs btn-primary checklistScore-viewDetails" onclick="checklist.viewScoreDetailsClick();">
+						show results
+					</button>
+					<button type="button" class="btn btn-xs btn-primary checklistScore-save" onclick="checklist.saveClick();">
+						save
+					</button>
+				</div>
+				<div class="checklistScore-progress">
+					<div class="checklistScore-progressBlue"></div>
+					<span class="checklistScore-message">
+						Click things you've done
+					</span>
+					<span class="glyphicon glyphicon-trash checklistScore-delete" onclick="app.openModal('modalDeleteScore');"></span>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+
+	
+	
+
+	<div class="modal" id="modalDeleteScore" role="dialog" aria-hidden="true" onclick="app.closeModal(event);">
+		<div class="modal-content modal-sm" style="">
+			<div class="modal-header">
+				<span class="close" onclick="app.closeModal();"></span>
+				<h3>Confirm Delete Score</h3>
+			</div>
+			<div class="modal-body">
+				<div class="mmm">
+					Are you sure you want to delete your score and checked items on this list? This cannot be undone.
+				</div>
+				<button type="button" class="btn btn-default" onclick="app.closeModal();">cancel</button>
+				<button type="button" class="btn btn-danger l" onclick="checklist.deleteClick();">delete my score</button>
+			</div>
+		</div>
+	</div>
+
+
+			</div>
+	
+			
+
+<div class="content listsMini" data-category="16">
+	<div class="h2 m">
+		Trending Other Lists
+	</div>
+	<div id="MainContent_listsMini_listRepeater_repeater" class="list-repeater clearfix" >
+		<div class="list-repeater-list " data-list-id="66479">
+			<a class="listCard" href="/1001-albums-you-must-hear-before-you-die-2016" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="1001 Albums You Must Hear Before You Die" onerror="ImageLoadError(this)" data-src="/f/lists-330/d7491e07-ece3-426a-b3b9-83dacd87d9f5.jpg" src="/i/b.png" /></div>
+				<div class="list-name">1001 Albums You Must Hear Before You Die</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 77,542
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 1001
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list " data-list-id="395785">
+			<a class="listCard" href="/have-you-tried-the-candy" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Have You Tried These 50 Candies?" onerror="ImageLoadError(this)" data-src="/f/lists-330/8dfe5880-4ed1-4b57-94de-68e55e9a5756.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Have You Tried These 50 Candies?</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 108
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 50
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list " data-list-id="12035">
+			<a class="listCard" href="/the-ultimate-list-of-disney-characters" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="The Ultimate List of Disney Characters" onerror="ImageLoadError(this)" data-src="/f/lists-330/91747304-ee12-42e2-a1af-1aa0784ef340.jpg" src="/i/b.png" /></div>
+				<div class="list-name">The Ultimate List of Disney Characters</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 321,033
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 176
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list " data-list-id="43325">
+			<a class="listCard" href="/have-you-ever-2" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Have You Ever?" onerror="ImageLoadError(this)" data-src="/f/lists-330/655863aa-4505-44cf-a9fe-9b7fb734bede.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Have You Ever?</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 58,988
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 169
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list " data-list-id="146266">
+			<a class="listCard" href="/200-most-famous-people-of-all-time" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="200 Most Famous People of All Time" onerror="ImageLoadError(this)" data-src="/f/lists-330/e519d7f7-5271-4808-a296-f6ceeca9d1b6.jpg" src="/i/b.png" /></div>
+				<div class="list-name">200 Most Famous People of All Time</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 93,694
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 200
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list " data-list-id="237723">
+			<a class="listCard" href="/ultimate-list-of-isekai-anime" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Ultimate List of Isekai Anime" onerror="ImageLoadError(this)" data-src="/f/lists-330/889fb659-ff87-4047-a8e8-6b21408cc840.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Ultimate List of Isekai Anime</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 85,858
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 43
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	</div>
+	<button type="button" class="btn btn-primary btn-lg listsMini-button" onclick="listMaster.loadMoreLists(this);"><span class="glyphicon glyphicon-refresh"></span> Load More Other Lists</button>
+</div>
+
+			<img src="/i/cb-bg-checked.png" class="hidden" />
+	
+		</div>
+
+	</div>
+
+
+
+			<div class="hhhh cb"></div>
+
+			
+			<footer>
+				<div class="content-wrapper">
+					<div class="social">
+						<a href="https://www.facebook.com/listchallenges"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-facebook-circled"></use></svg></i></a>
+						<a href="https://www.pinterest.com/listchallenges"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-pinterest-logo"></use></svg></i></a>
+						
+						<a href="https://www.youtube.com/channel/UC2nCmL5P2aH3KDYiNmJGljw"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-youtube-play-button-logo"></use></svg></i></a>
+					</div>
+					<div class="text">
+						<a href="/subscribe">Newsletter</a> &middot;
+						<a href="/help">Help/Contact</a> &middot;
+						<a href="/privacy">Privacy</a> &middot;
+						<a href="/contact/copyright">Copyright&nbsp;Claim</a>&nbsp;&nbsp;
+						<div class="hidden-lg"></div>
+						&copy;&nbsp;2021 App Spring, Inc.
+						&middot;
+						This product uses the <a href="https://www.themoviedb.org" target="_blank">TMDb&nbsp;API</a> but is not endorsed or certified by TMDb.
+					</div>
+				</div>
+			</footer>
+
+		
+</div>
+
+
+		
+
+
+		
+
+		
+
+
+		
+
+		<div class="modal" id="modalItemInfo" role="dialog" aria-hidden="true" onclick="app.closeModal(event);">
+			<div class="modal-content modal-lg" style="">
+				<div class="modal-header">
+					<span class="close" onclick="app.closeModal();"></span>
+					<h3>Item Info</h3>
+				</div>
+				<div class="modal-body">
+				</div>
+			</div>
+		</div>
+
+
+		
+
+		<div id="cookieBanner" class="master_cookieBanner shadow-24 transitionQuick">
+			<div class="flex-grow1"></div>
+			<div>
+				This site uses third party cookies for analytics and advertising.
+				<a class="link" href="/privacy">View Cookie Policy</a>
+			</div>
+			<div>
+				<button type="button" class="btn btn-primary btn-sm" onclick="app.cookiePolicyResponse(true, false);">
+					accept
+				</button>
+				<button type="button" class="btn btn-default btn-sm" onclick="app.cookiePolicyResponse(false, false);">
+					reject
+				</button>
+			</div>
+			<div class="flex-grow1"></div>
+		</div>
+
+
+		
+        		
+		<script>
+SERVER_APP = {
+  "Version": "1.0",
+  "RequiredComponents": [
+    "checklist",
+    "listMaster",
+    "header"
+  ],
+  "DisplayDebug": false,
+  "IsSoundOn": false,
+  "UserLoggedIn": false,
+  "UserIsAdmin": false,
+  "FirstTimeVisitor": true
+};
+SERVER_PAGE = {
+  "HintText": "Click things you've done",
+  "DisableLazyLoad": true,
+  "PageCount": 33,
+  "ThisPageItemCount": 40,
+  "CurrentPage": 6,
+  "IsLastPage": false,
+  "ListPath": "/all-north-american-release-playstation-games",
+  "ListImageUrl": "https://www.listchallenges.com/f/lists/7a9ab273-8661-42a9-bf7b-50597dbea726.jpg",
+  "ListItemCount": 1300,
+  "UserCount": 9153,
+  "RequiredScores": [
+    1,
+    2,
+    3,
+    13,
+    75
+  ],
+  "AvgScore": 31,
+  "HasListScore": false,
+  "UserListScore": 0,
+  "UserListRankTopPercent": 0.0,
+  "UserListCompleted": false,
+  "ListUrl": "https://www.listchallenges.com/all-north-american-release-playstation-games",
+  "ListId": 67694
+};
+Domain='www.listchallenges.com';Device='desktop';LoggedIn=false;
+</script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		
+
+		<script src="/bundles/app-scripts?v=3nsJNY72RS_Gl6WRFAotbvwp8a2GJESYy_mawymveIc1"></script>
+
+
+		
+
+		<script>
+			// global document ready
+			$(function () {
+				app.$onInit();
+				//app.$onInitAlways();
+			});
+		</script>
+
+		
+
+	
+
+
+
+
+		
+		
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		
+
+		
+
+	</form>
+
+</body>
+</html>
