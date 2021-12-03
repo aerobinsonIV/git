@@ -2,6 +2,7 @@ import re
 import sqlite3
 import os
 from fuzzywuzzy import fuzz # Fuzzy string matching library
+from Levenshtein import distance as lev
 
 import harrys_game_list_parser as parser
 
@@ -16,27 +17,30 @@ def prep_name(name):
 
 #Returns the item in search_list that is most similar to input_string in form (item, match_ratio)
 def find_best_match(input_string, search_list):
-    best_ratio = 0
+    best_distance = 99
     best_match = ""
     for item in search_list:
-        current_ratio = fuzz.ratio(prep_name(input_string), prep_name(item))
-
-        if(current_ratio > best_ratio):
-            best_ratio = current_ratio
+        current_distance = lev(prep_name(input_string), prep_name(item))
+        # print(f"Distance from {prep_name(input_string)} to {prep_name(item)} is {current_distance}")
+        if(current_distance < best_distance):
+            best_distance = current_distance
             best_match = item
-    return (best_match, best_ratio)
+
+    # print(f"Best match of {input_string} is {best_match} with distance {best_distance}")
+    return (best_match, best_distance)
 
 #Similar to find_best_match, but returns null if we're not reasonably certain it's a match
 def find_match(input_string, search_list):
     # Make sure every game in the title list has a match in Harry's game data list
     best_match = find_best_match(input_string, search_list)
 
-    if(best_match[1] > 89):
+    if(best_match[1] < 6):
         prepped1 = prep_name(input_string)
         prepped2 = prep_name(best_match[0])
         # If we have a match over 89%, it's possibly a different installment of a series.
         # Check the last few chars for an exact match to exclude different versions or years.
         if prepped1[-3:] == prepped2[-3:]:
+            print(f"Matched {game_title[:-1]} to {matching_key} (Levenshtein distance {best_match[1]})")
             return best_match[0]
     
     return None
@@ -63,7 +67,7 @@ for game_title in game_titles:
     matching_key = find_match(game_title[:-1], dict_keys)
 
     if matching_key:
-        print(f"Matched {game_title[:-1]} to {matching_key}")
+        pass
     else:
         print(f"No match found for {game_title[:-1]}")  
     
