@@ -1,1 +1,2 @@
-downloaded-files/*
+downloaded-files/
+__pycache__/
