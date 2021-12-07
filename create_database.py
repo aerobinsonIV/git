@@ -54,8 +54,14 @@ for i in tqdm(range(0, len(game_titles))):
         matched_titles_and_keys.append((game_titles[i][:-1], matching_key))
 
 for pair in matched_titles_and_keys:
+    # Dict entries have format (company, year, rarity_num)
+    publisher_command = f"update games set publisher = '{game_dict[pair[1]][0]}' where title = '{pair[0]}'"
     year_command = f"update games set year = {game_dict[pair[1]][1]} where title = '{pair[0]}'"
+    rarity_command = f"update games set rarity = {game_dict[pair[1]][2]} where title = '{pair[0]}'"
+    
+    cursor.execute(publisher_command)
     cursor.execute(year_command)
+    cursor.execute(rarity_command)
 
 # Close out
 connection.commit()
