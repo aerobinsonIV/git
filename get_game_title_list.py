@@ -19,13 +19,13 @@ def parseOnePage(lines):
             next_line_is_title = True
     return titles
 
-# for i in range(1, 34):
-#     command = 'wget ' + url + str(i) + " -P ./downloaded-files/"ä
-#     os.system(command)
-#     # print(command)
+for i in range(1, 34):
+    command = 'wget ' + url + str(i) + " -P ./downloaded-files/"
+    os.system(command)
+    # print(command)
 
 
-outputFile = open("output.txt", 'w')
+outputFile = open("game_title_list.txt", 'w')
 
 for file in os.listdir("./downloaded-files/"):
     if not file.endswith(".py"):
