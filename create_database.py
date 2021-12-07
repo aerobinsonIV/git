@@ -18,7 +18,7 @@ def replace_quotes(input):
 def prep_name(name):
     return re.sub('[\W_]+', '', name.lower().strip().replace("&", "and")).replace("the", "").replace("2", "ii").replace("3", "iii")
 
-#Returns the item in search_list that is most similar to input_string in form (item, match_ratio)
+#Returns the item in search_list that is most similar to input_string in form (item, lev distance)
 def find_best_match(input_string, search_list):
     best_distance = 99
     best_match = ""
@@ -37,20 +37,20 @@ def find_match(input_title, search_list):
 
     best_match = find_best_match(input_title, search_list)
 
-    if(best_match[1] < 4):
-        # If we have a match with a distance of less than 6, it's possibly a different installment of a series.
+    if(best_match[1] < 5):
+        # If we have a match with a distance of less than 5, it might be a match, or it could be a different installment of the series.
 
         prepped1 = prep_name(input_title)
         prepped2 = prep_name(best_match[0])
         # Check the last few chars for an exact match to exclude different versions or years.
         if prepped1[-3:] == prepped2[-3:]:
             
-            if(best_match[1] > 2):
-                #print uncertain matches
-                print(f"Matched {input_title} to {best_match[0]} (Levenshtein distance {best_match[1]})")
+            # Even if the last few chars match, these might just be games with similar, short names (e.g. FIFA 2000 to F1 2000 would still be valid at this point)
+            # As a last line of defense against false positives, check the match ratio with fuzzywuzzy:
+            ratio = fuzz.ratio(prepped1, prepped2)
+            if(ratio > 88):
+                return best_match[0]
 
-            return best_match[0]
-    
     return None
 
 # Open database
@@ -74,10 +74,10 @@ for game_title in game_titles:
 
     matching_key = find_match(game_title[:-1], dict_keys)
 
-    # if matching_key:
-    #     pass
-    # else:
-    #     print(f"No match found for {game_title[:-1]}")  
+    if matching_key:
+        pass
+    else:
+        print(f"No match found for {game_title[:-1]}")  
     
     
 
