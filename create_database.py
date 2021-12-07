@@ -4,6 +4,9 @@ import os
 from fuzzywuzzy import fuzz # Fuzzy string matching library
 from Levenshtein import distance as lev
 
+titles_file = "resources/game_title_list.txt"
+games_file = "resources/harrys_game_list.txt"
+
 import harrys_game_list_parser as parser
 
 # Replace quotes with weird unicode quotes that look almost the same but don't need to be escaped
@@ -19,28 +22,33 @@ def prep_name(name):
 def find_best_match(input_string, search_list):
     best_distance = 99
     best_match = ""
+    
     for item in search_list:
         current_distance = lev(prep_name(input_string), prep_name(item))
-        # print(f"Distance from {prep_name(input_string)} to {prep_name(item)} is {current_distance}")
+        
         if(current_distance < best_distance):
             best_distance = current_distance
             best_match = item
 
-    # print(f"Best match of {input_string} is {best_match} with distance {best_distance}")
     return (best_match, best_distance)
 
-#Similar to find_best_match, but returns null if we're not reasonably certain it's a match
-def find_match(input_string, search_list):
-    # Make sure every game in the title list has a match in Harry's game data list
-    best_match = find_best_match(input_string, search_list)
+#Similar to find_best_match, but returns None if we're not reasonably certain it's a match
+def find_match(input_title, search_list):
 
-    if(best_match[1] < 6):
-        prepped1 = prep_name(input_string)
+    best_match = find_best_match(input_title, search_list)
+
+    if(best_match[1] < 4):
+        # If we have a match with a distance of less than 6, it's possibly a different installment of a series.
+
+        prepped1 = prep_name(input_title)
         prepped2 = prep_name(best_match[0])
-        # If we have a match over 89%, it's possibly a different installment of a series.
         # Check the last few chars for an exact match to exclude different versions or years.
         if prepped1[-3:] == prepped2[-3:]:
-            print(f"Matched {game_title[:-1]} to {matching_key} (Levenshtein distance {best_match[1]})")
+            
+            if(best_match[1] > 2):
+                #print uncertain matches
+                print(f"Matched {input_title} to {best_match[0]} (Levenshtein distance {best_match[1]})")
+
             return best_match[0]
     
     return None
@@ -50,10 +58,10 @@ def find_match(input_string, search_list):
 # cursor = connection.cursor()
 
 #Load games from Harry's data file
-game_dict = parser.load_games_from_file("games.txt")
+game_dict = parser.load_games_from_file(games_file)
 
 # Get list of game titles from my file
-with open("output.txt", "r") as game_file:
+with open(titles_file, "r") as game_file:
     game_titles = game_file.readlines()
 
 # Create games table
@@ -66,10 +74,10 @@ for game_title in game_titles:
 
     matching_key = find_match(game_title[:-1], dict_keys)
 
-    if matching_key:
-        pass
-    else:
-        print(f"No match found for {game_title[:-1]}")  
+    # if matching_key:
+    #     pass
+    # else:
+    #     print(f"No match found for {game_title[:-1]}")  
     
     
 
@@ -83,7 +91,3 @@ for game_title in game_titles:
 # Close out
 # connection.commit()
 # connection.close()
-
-# Load harry's game file
-# Function that takes in title and outputs year
-# For each row in database, get title, run thru function, add year to database
