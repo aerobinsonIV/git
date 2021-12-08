@@ -1,2 +1,5 @@
 downloaded-files/
 __pycache__/
+resources/games.csv
+resources/games_csv.txt
+games.csv
