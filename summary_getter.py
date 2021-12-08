@@ -12,13 +12,21 @@ driver.get(gameSite)
 
 
 gameFile = open("./games_in_db.txt", "r")
-outputFile = open("./game_descriptions.txt", "w")
+outputFile = open("./game_descriptions.txt", "a")
+rOutputFile = open("./game_descriptions.txt", "r")
 errorFile = open("./game_errors.txt", "w")
 titles = gameFile.readlines()
 
+alreadyDone = []
+for t in rOutputFile.readlines():
+    if(t[0] == '>'):
+        alreadyDone.append(t[1:].replace("\n", ""))
+rOutputFile.close()
 
 for gameName in titles:
     gameName = gameName.replace("\n", "")
+    if(gameName in alreadyDone):
+        pass
     try:
         driver.get(gameSite + gameName.replace(" ", "+"))
         driver.find_elements_by_link_text("PlayStation")[0].click()
