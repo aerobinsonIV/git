@@ -8,7 +8,18 @@ import game_title_matcher as matcher
 titles_file = "resources/game_title_list.txt"
 games_file = "resources/harrys_game_list.txt"
 
-
+archive =   ["Final Fantasy VII", 
+            "Monster Rancher 2", 
+            "Need for Speed III: Hot Pursuit", 
+            "NHL 99", 
+            "Oddworld: Abe’s Exoddus", 
+            "Oddworld: Abe’s Oddysee", 
+            "Spyro the Dragon", 
+            "Vandal Hearts II", 
+            "Warhammer: Shadow of the Horned Rat", 
+            "Bust-A-Move 2 - Arcade Edition", 
+            "Bust-A-Move ’99", 
+            "Caesars Palace"]
 
 # Replace quotes with weird unicode quotes that look almost the same but don't need to be escaped
 def replace_quotes(input):
@@ -58,6 +69,10 @@ for pair in matched_titles_and_keys:
     publisher_command = f"update games set publisher = '{game_dict[pair[1]][0]}' where title = '{pair[0]}'"
     year_command = f"update games set year = {game_dict[pair[1]][1]} where title = '{pair[0]}'"
     rarity_command = f"update games set rarity = {game_dict[pair[1]][2]} where title = '{pair[0]}'"
+
+    if pair[0] in archive:
+        in_archive_command = f"update games set in_archive = 1 where title = '{pair[0]}'"
+        cursor.execute(in_archive_command)
     
     cursor.execute(publisher_command)
     cursor.execute(year_command)
