@@ -21,10 +21,11 @@ archive =   ["Final Fantasy VII",
             "Bust-A-Move ’99", 
             "Caesars Palace"]
 
-# Replace quotes with weird unicode quotes that look almost the same but don't need to be escaped
-def replace_quotes(input):
+# Replace quotes with weird unicode quotes that look almost the same but don't need to be escaped, escape commas, strip newlines and whitespace
+# Also, remove commas to avoid headaches when manipulating data in CSV format
+def prep_title_for_db(input):
     weird_single_quote = "’"
-    return input.replace("'", weird_single_quote)
+    return input.replace("'", weird_single_quote).replace(",", "").replace('"', "").strip()
 
 # ******************************Database creation***************************************
 
@@ -39,9 +40,10 @@ cursor = connection.cursor()
 # Create games table
 cursor.execute("CREATE TABLE games (title text, year int, developer text, publisher text, genre text, in_archive integer, rarity integer, summary text, notes text)")
 
-for game_title in game_titles:
+for i, game_title in enumerate(game_titles):
     
-    cleaned_game_title = replace_quotes(game_title)[:-1]
+    cleaned_game_title = prep_title_for_db(game_title)
+    game_titles[i] = cleaned_game_title
     
     command = f"insert into games values ('{cleaned_game_title}', '0', '-', '-', '-', 0, 0, '-', '-')"
     cursor.execute(command)
@@ -59,10 +61,10 @@ matched_titles_and_keys = []
 print("Matching game titles to games...")
 for i in tqdm(range(0, len(game_titles))):
 
-    matching_key = matcher.find_match(game_titles[i][:-1], dict_keys)
+    matching_key = matcher.find_match(game_titles[i], dict_keys)
 
     if matching_key:
-        matched_titles_and_keys.append((game_titles[i][:-1], matching_key))
+        matched_titles_and_keys.append((game_titles[i], matching_key))
 
 for pair in matched_titles_and_keys:
     # Dict entries have format (company, year, rarity_num)
