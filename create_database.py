@@ -8,8 +8,6 @@ import game_title_matcher as matcher
 titles_file = "resources/game_title_list.txt"
 games_file = "resources/harrys_game_list.txt"
 
-
-
 # Replace quotes with weird unicode quotes that look almost the same but don't need to be escaped
 def replace_quotes(input):
     weird_single_quote = "’"

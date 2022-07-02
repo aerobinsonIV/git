@@ -31,19 +31,19 @@ for gameName in titles:
         continue
 
     print(f"{gameName} hasn't been done")
-    # try:
-    #     driver.get(gameSite + gameName.replace(" ", "+"))
-    #     driver.find_elements_by_link_text("PlayStation")[0].click()
+    try:
+        driver.get(gameSite + gameName.replace(" ", "+"))
+        driver.find_elements_by_link_text("PlayStation")[0].click()
 
-    #     myElem = WebDriverWait(driver, 5).until(
-    #         EC.presence_of_element_located((By.CLASS_NAME, 'game_desc')))
+        myElem = WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.CLASS_NAME, 'game_desc')))
 
-    #     desc = driver.find_element_by_class_name("game_desc")
-    #     outputFile.write(">{}\n{}\n".format(
-    #         gameName, desc.text.replace("\n", ".")))
-    #     outputFile.flush()
-    # except Exception as e:
-    #     print(e)
-    #     errorFile.write("{}\n".format(gameName))
-    #     errorFile.flush()
-    #     pass
+        desc = driver.find_element_by_class_name("game_desc")
+        outputFile.write(">{}\n{}\n".format(
+            gameName, desc.text.replace("\n", ".")))
+        outputFile.flush()
+    except Exception as e:
+        print(e)
+        errorFile.write("{}\n".format(gameName))
+        errorFile.flush()
+        pass
